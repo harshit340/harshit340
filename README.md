@@ -1,10 +1,11 @@
-<h1 align="center">Welcome to my page! I'm Harshit, Fullstack developer from India, currently pursing My B.Tech in CSE</h1>
+<h1 align="center">Welcome to my page! </h1>
+ <h3 align="center">I'm Harshit, Fullstack developer from India, currently pursing My B.Tech in CSE</h3>
 
 <p align="left"> <a href="https://twitter.com/harshitshr98698" target="blank"><img src="https://img.shields.io/twitter/follow/harshitshr98698?logo=twitter&style=for-the-badge" alt="harshitshr98698" /></a> </p>
 
 - 🔭 I’m currently working on [AI-CHATBOT](https://github.com/harshit340/OpenAPI-ChatBot)
 
-- 📫 You can see me on **harshitshrivastava340@gmail.com**
+- 📫 You can contact me on **harshitshrivastava340@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
