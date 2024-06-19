@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshitshr98698" target="blank"><img src="https://img.shields.io/twitter/follow/harshitshr98698?logo=twitter&style=for-the-badge" alt="harshitshr98698" /></a> </p>
 
-- 🔭 I’m currently working on NEXTJS & AntD
+- 🔭 I’m currently working on Rust
 
 - 📫 You can see me on **harshitshrivastava340@gmail.com**
 
